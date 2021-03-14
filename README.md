@@ -2,7 +2,7 @@
 
 ### Let's Explore the Digital World 🌎 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=mrcentimetre)
+![trophy](https://github-profile-trophy.vercel.app/?username=mrcentimetre&title=Followers,Commit,Issues,Repositories,PullRequest,Stars)
 
 ![mrcentimetre](https://komarev.com/ghpvc/?username=mrcentimetre&label=Profile%20views&color=green&style=plastic)
 
