@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi 👋, I'm Mr Centimetre
 
-<!--
-**mrcentimetre/mrcentimetre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Let's Explore the Digital World 🌎 
 
-Here are some ideas to get you started:
+![trophy](https://github-profile-trophy.vercel.app/?username=mrcentimetre)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![mrcentimetre](https://komarev.com/ghpvc/?username=mrcentimetre&label=Profile%20views&color=green&style=plastic)
+
+### Languages and Tools:
+
+![mrcentimetre](https://github-readme-stats.vercel.app/api/top-langs?username=mrcentimetre&show_icons=true&locale=en&layout=compact)
+
+![mrcentimetre](https://github-readme-stats.vercel.app/api?username=mrcentimetre&show_icons=true&locale=en)
+
+![mrcentimetre](https://github-readme-streak-stats.herokuapp.com/?user=mrcentimetre&)
