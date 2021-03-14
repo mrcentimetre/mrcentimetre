@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrcentimetre&label=Profile%20views&color=green&style=plastic" alt="mrcentimetre" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrcentimetre" alt="mrcentimetre" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrcentimetre&title=Followers,Commit,Issues,Repositories,PullRequest,Stars" alt="mrcentimetre" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
