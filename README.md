@@ -5,7 +5,7 @@
 
 ## I'm an Undergraduate at University of Moratuwa
 
-- 👨‍💻 I’m currently working on web designing projects using Next.Js
+- 👨‍💻 I’m currently working on TON Smart Contract Technology using FunC language.
 - 📚 Learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
