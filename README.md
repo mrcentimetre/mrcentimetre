@@ -21,6 +21,7 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![Solidity](https://img.shields.io/badge/-Solidity-000000?style=flat&logo=solidity)
 
 ##### Some of the technologies I have worked with
 
