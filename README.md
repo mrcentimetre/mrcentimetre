@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm [Nimsara!](https://github.com/mrcentimetre/)
 ####  < AKA Mr Centimetre /> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px></picture> 
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHB6OWY1dXo1eTEzcnlucHJtYzkyaWFzNnZxOG1iZTIyamE0NzViZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ChpOyeacGmpQk/giphy.webp" />
 
-## I'm an Undergraduate at University of Moratuwa
+### I'm an Undergraduate at University of Moratuwa
 
 - 👨‍💻 I’m currently working on TON Smart Contract Technology using FunC language.
 - 📚 Learning everything about Frontend and Backend technologies 😅
