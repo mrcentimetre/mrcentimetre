@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm [Nimsara!](https://github.com/mrcentimetre/)
 ####  < AKA Mr Centimetre /> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px></picture> 
 
-<img align="right" alt="GIF" height="160px" src="https://i.giphy.com/JqmupuTVZYaQX5s094.webp" />
+<img align="right" alt="GIF" height="160px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2hkNXRkNnJ5Y2F1MGxraXRsYjlubDhqOG54Nnh3MHZ0aGZma25xbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rbt3HJ6pSpyco/giphy.webp" />
 
 ### I'm an Undergraduate at University of Moratuwa
 
